@@ -1,0 +1,25 @@
+id,person,name,email,role,topics,format,note,consent
+H01,P01,Ana Lund,ana@example.com,founder,pricing,chat,Hiring a first developer on a small budget. Can help with: Hiring a first developer,yes
+H02,P02,Theo Marchand,theo@example.com,founder,product and tech,chat,Getting through a privacy impact assessment. Can help with: Health privacy rules for software,yes
+H03,P03,Mira Kowalczyk,mira@example.com,founder,fundraising,chat,Raising a Series A from US and Canadian investors. Can help with: Fundraising from seed to Series A,yes
+H04,P04,Desmond Achebe,desmond@example.com,founder,sales,chat,Being a startup's first sales hire and building the team after. Can help with: Hiring and ramping a first salesperson,yes
+H05,P05,Leila Rahimi,leila@example.com,founder,fundraising,chat,Hiring the first five salespeople. Can help with: Hiring and managing a first sales team,yes
+H06,P06,Colm Byrne,colm@example.com,founder,hiring,chat,Switching HR and payroll platforms at 20 staff. Can help with: Choosing an HR and payroll platform,yes
+H07,P07,Jordan Gallant,jordan@example.com,founder,grants,chat,Selling to farmers through a co-op. Can help with: Selling to farmers and co-ops,yes
+H08,P08,Anjali Raman,anjali@example.com,founder,hiring,chat,Getting through a provincial health authority procurement. Can help with: Health system procurement,yes
+H09,P09,Owen MacIsaac,owen@example.com,founder,first customers,chat,Eight years as a construction project manager. Can help with: How construction firms buy software,yes
+H10,P10,Luc Thibodeau,luc@example.com,founder,hiring,chat,Selling to a utility through a 12-month procurement. Can help with: Selling to utilities and large industrial buyers,yes
+H11,P11,Grace Oduya,grace@example.com,founder,sales,chat,Building a waitlist of 3000 parents before launch. Can help with: Selling to parents online,yes
+H12,P12,Rosalie Cormier,rosalie@example.com,founder,sales,chat,Moving production from a commercial kitchen to a co-packer. Can help with: Getting into regional grocery chains,yes
+H13,P13,Arjun Sethi,arjun@example.com,founder,fundraising,chat,Building a hardware prototype with a local machine shop. Can help with: Hardware prototyping and machine shops,yes
+H14,P14,Tomasz Nowak,tomasz@example.com,founder,hiring,chat,Moving customers from monthly to annual contracts. Can help with: Annual pricing and contracts,yes
+H15,P15,Leah Morin,leah@example.com,founder,pricing,chat,Writing over 40 grant applications including IRAP and SR&ED. Can help with: Grants and SR&ED claims,yes
+H16,P16,Siobhan Walsh,siobhan@example.com,founder,expansion,chat,Selling to engineering firms. Can help with: Selling to engineering firms,yes
+H17,P17,Felix Arsenault,felix@example.com,founder,grants,chat,Leaving a corporate engineering job to start a company. Can help with: Engineering and materials testing,yes
+H18,P18,Imani Brooks,imani@example.com,founder,product and tech,chat,Ten years as an ER nurse. Can help with: How hospitals and nurses really work,yes
+H19,P19,Kiran Desai,kiran@example.com,founder,sales,chat,Closing a seed round in six weeks. Can help with: SOC 2 and security questionnaires,yes
+H20,P20,Josie Langille,josie@example.com,founder,expansion,chat,Running a Kickstarter that raised $40k. Can help with: Crowdfunding and launch marketing,yes
+H21,P21,Ewan Reid,ewan@example.com,founder,fundraising,chat,Running a paid pilot with a large fishing company. Can help with: Pilots with large companies,yes
+H22,P22,Sofia Martel,sofia@example.com,founder,hiring,chat,Setting up a US entity and US sales tax. Can help with: Setting up a US entity,yes
+H23,P23,Mateo Ruiz,mateo@example.com,founder,product and tech,chat,Shipping two games on Steam. Can help with: Game design and Steam launches,yes
+H24,P24,Amara Nwosu,amara@example.com,founder,pricing,chat,Growing an app to 50k downloads on a small budget. Can help with: Paid social and app store growth,yes

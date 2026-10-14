@@ -1,0 +1,25 @@
+id,person,topics,format,note,consent
+M01,P01,pricing,advice,Pricing for clinic groups with many locations,yes
+M02,P02,product and tech,advice,Security questionnaires from larger clinic groups,yes
+M03,P03,fundraising,advice,US expansion: hiring and paying staff in the US,yes
+M04,P04,sales,advice,Enterprise procurement with port authorities,yes
+M05,P05,fundraising,advice,Fundraising: a first institutional round after growing on revenue,yes
+M06,P06,hiring,advice,Group benefits for staff in three provinces,yes
+M07,P07,grants,advice,Applying for a first IRAP grant,yes
+M08,P08,hiring,advice,Choosing an HR and payroll platform (still on spreadsheets at 14 staff),yes
+M09,P09,first customers,advice,Whether to quit his job and go full-time,yes
+M10,P10,hiring,advice,First sales hire: commission or salary,yes
+M11,P11,sales,advice,Enterprise procurement: school board RFPs and approvals,yes
+M12,P12,sales,advice,Cash flow before large grocery orders,yes
+M13,P13,fundraising,advice,Fundraising: explaining hardware timelines to pre-seed investors,yes
+M14,P14,hiring,advice,First sales hire: who to hire and how to pay them,yes
+M15,P15,pricing,advice,Pricing: per seat or per application,yes
+M16,P16,expansion,advice,US expansion: cross-border tax and contracts,yes
+M17,P17,grants,advice,Applying for first grants: IRAP and provincial funding,yes
+M18,P18,product and tech,advice,Finding a technical co-founder,yes
+M19,P19,sales,advice,Enterprise procurement: security review and legal at a large insurer,yes
+M20,P20,expansion,advice,US expansion: FDA labels and a US distributor,yes
+M21,P21,fundraising,advice,Fundraising: writing investor updates and finding a lead investor,yes
+M22,P22,hiring,advice,Choosing an HR and payroll platform that handles US staff,yes
+M23,P23,product and tech,advice,Revenue gaps between game releases,yes
+M24,P24,pricing,advice,Pricing: when to add a paid tier,yes

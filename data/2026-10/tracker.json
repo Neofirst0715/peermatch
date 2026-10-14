@@ -1,0 +1,202 @@
+{
+  "created": "2026-10-14",
+  "asks": [
+    {
+      "aid": "ask-1",
+      "ask_id": "M02",
+      "candidates": [
+        {
+          "help_id": "H19",
+          "confidence": "high",
+          "reason": "The helper has handled SOC 2 and security questionnaires, which is what this founder needs for larger clinic groups.",
+          "invite_line": "You have handled SOC 2 and security questionnaires, and this founder is working through them."
+        }
+      ],
+      "idx": 0,
+      "status": "pending",
+      "history": []
+    },
+    {
+      "aid": "ask-2",
+      "ask_id": "M03",
+      "candidates": [
+        {
+          "help_id": "H22",
+          "confidence": "high",
+          "reason": "The helper has set up a US entity and US sales tax, matching this founder's US hiring and payroll needs.",
+          "invite_line": "You have set up a US entity and dealt with US sales tax, and this founder is expanding to the US."
+        }
+      ],
+      "idx": 0,
+      "status": "pending",
+      "history": []
+    },
+    {
+      "aid": "ask-3",
+      "ask_id": "M05",
+      "candidates": [
+        {
+          "help_id": "H03",
+          "confidence": "high",
+          "reason": "The helper has raised a Series A from US and Canadian investors, matching this founder's first institutional round.",
+          "invite_line": "You have raised a Series A from US and Canadian investors, and this founder is preparing a first institutional round."
+        }
+      ],
+      "idx": 0,
+      "status": "pending",
+      "history": []
+    },
+    {
+      "aid": "ask-4",
+      "ask_id": "M07",
+      "candidates": [
+        {
+          "help_id": "H15",
+          "confidence": "high",
+          "reason": "The helper has written over 40 grant applications including IRAP, matching this founder's first IRAP grant.",
+          "invite_line": "You have written over 40 grant applications including IRAP, and this founder is applying for a first IRAP grant."
+        }
+      ],
+      "idx": 0,
+      "status": "pending",
+      "history": []
+    },
+    {
+      "aid": "ask-5",
+      "ask_id": "M08",
+      "candidates": [
+        {
+          "help_id": "H06",
+          "confidence": "high",
+          "reason": "The helper has switched HR and payroll platforms at 20 staff, matching this founder's platform choice at 14 staff.",
+          "invite_line": "You have switched HR and payroll platforms at 20 staff, and this founder is choosing one at 14 staff."
+        }
+      ],
+      "idx": 0,
+      "status": "pending",
+      "history": []
+    },
+    {
+      "aid": "ask-6",
+      "ask_id": "M10",
+      "candidates": [
+        {
+          "help_id": "H04",
+          "confidence": "high",
+          "reason": "The helper was a startup's first sales hire and built the team, matching this founder's first sales hire question.",
+          "invite_line": "You were a startup's first sales hire and built the team, and this founder is deciding how to pay a first sales hire."
+        }
+      ],
+      "idx": 0,
+      "status": "pending",
+      "history": []
+    },
+    {
+      "aid": "ask-7",
+      "ask_id": "M11",
+      "candidates": [
+        {
+          "help_id": "H08",
+          "confidence": "high",
+          "reason": "The helper has been through a provincial health authority procurement, similar to this founder's school board RFP needs.",
+          "invite_line": "You have been through a provincial health authority procurement, and this founder is navigating school board RFPs and approvals."
+        }
+      ],
+      "idx": 0,
+      "status": "pending",
+      "history": []
+    },
+    {
+      "aid": "ask-8",
+      "ask_id": "M04",
+      "candidates": [
+        {
+          "help_id": "H10",
+          "confidence": "high",
+          "reason": "The helper has sold to a utility through a long procurement, and this founder needs help with procurement at port authorities.",
+          "invite_line": "You got through a 12-month procurement with a utility, and this founder is working on a long procurement process."
+        }
+      ],
+      "idx": 0,
+      "status": "pending",
+      "history": []
+    },
+    {
+      "aid": "ask-9",
+      "ask_id": "M12",
+      "candidates": [
+        {
+          "help_id": "H14",
+          "confidence": "high",
+          "reason": "The helper moved customers to annual contracts, and this founder needs help with cash flow before large orders.",
+          "invite_line": "You moved customers from monthly to annual contracts, and this founder is working on cash flow before large orders."
+        }
+      ],
+      "idx": 0,
+      "status": "pending",
+      "history": []
+    }
+  ],
+  "skipped": [
+    {
+      "id": "M01",
+      "reason": "No helper has experience with pricing for clinic groups with many locations."
+    },
+    {
+      "id": "M09",
+      "reason": "No helper has experience with deciding to quit a job and go full-time."
+    },
+    {
+      "id": "M13",
+      "reason": "No helper has experience explaining hardware timelines to pre-seed investors."
+    },
+    {
+      "id": "M14",
+      "reason": "No helper has experience with first sales hire who to hire and how to pay them."
+    },
+    {
+      "id": "M15",
+      "reason": "No helper has experience with pricing per seat or per application."
+    },
+    {
+      "id": "M16",
+      "reason": "No helper has experience with US expansion cross-border tax and contracts."
+    },
+    {
+      "id": "M17",
+      "reason": "No helper has experience with applying for first grants IRAP and provincial funding."
+    },
+    {
+      "id": "M18",
+      "reason": "No helper has experience with finding a technical co-founder."
+    },
+    {
+      "id": "M19",
+      "reason": "No helper has experience with enterprise procurement security review and legal at a large insurer."
+    },
+    {
+      "id": "M20",
+      "reason": "No helper has experience with US expansion FDA labels and a US distributor."
+    },
+    {
+      "id": "M21",
+      "reason": "No helper has experience with fundraising writing investor updates and finding a lead investor."
+    },
+    {
+      "id": "M22",
+      "reason": "No helper has experience with choosing an HR and payroll platform that handles US staff."
+    },
+    {
+      "id": "M23",
+      "reason": "No helper has experience with revenue gaps between game releases."
+    },
+    {
+      "id": "M24",
+      "reason": "No helper has experience with pricing when to add a paid tier."
+    },
+    {
+      "id": "M06",
+      "reason": "Left out: helper H22 is first choice for two needs"
+    }
+  ]
+}

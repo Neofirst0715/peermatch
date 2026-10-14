@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Volta Peer Match</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="topbar"><div class="topin">
+    <div class="brand"><span>Volta</span><span class="tagp">Peer Match</span></div>
+    <nav class="tabs" role="tablist" aria-label="Views">
+      <button role="tab" id="tab-import" aria-selected="true" data-tab="import">Import</button>
+      <button role="tab" id="tab-review" aria-selected="false" data-tab="review">Review</button>
+      <button role="tab" id="tab-dir" aria-selected="false" data-tab="dir">Directory</button>
+    </nav>
+  </div></div>
+
+  <main class="wrap">
+    <!-- 1. Import -->
+    <section id="view-import" class="sec" style="gap:20px">
+      <div class="sec"><h1>Import</h1><p class="muted">The Happier Hour answers, exported as a CSV.</p></div>
+      <div class="bar sec" id="uploadBox" hidden></div>
+      <div class="bar">
+        <div id="importOut"></div>
+      </div>
+    </section>
+
+    <!-- 2. Review -->
+    <section id="view-review" class="sec" style="gap:20px" hidden>
+      <div class="bar" id="counts"></div>
+      <div class="row" id="exportBar"></div>
+      <div class="sec" id="oneSec"></div>
+      <div id="leftSec"></div>
+    </section>
+
+    <!-- 3. Directory -->
+    <section id="view-dir" class="sec" hidden>
+      <h1>Directory</h1>
+      <div class="bar"><div class="filters">
+        <input id="q" type="search" placeholder="Search by name or keyword, such as SOC 2 or pricing" aria-label="Search">
+        <select id="ft" aria-label="Topic"><option value="">Topic</option></select>
+        <select id="fs" aria-label="Stage"><option value="">Stage</option></select>
+        <select id="fm" aria-label="Match status"><option value="">Match status</option><option value="matched">Matched</option><option value="none">No match yet</option></select>
+      </div></div>
+      <p class="muted" id="dcount"></p>
+      <div class="grid" id="grid"></div>
+    </section>
+  </main>
+
+  <!-- Find-a-helper panel -->
+  <div class="ov" id="ov" hidden></div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

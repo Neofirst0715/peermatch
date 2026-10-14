@@ -1,0 +1,583 @@
+{
+  "entries": [
+    {
+      "id": "M01",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "pricing"
+      ],
+      "format": "advice",
+      "note": "Pricing for clinic groups with many locations"
+    },
+    {
+      "id": "M02",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "product and tech"
+      ],
+      "format": "advice",
+      "note": "Security questionnaires from larger clinic groups"
+    },
+    {
+      "id": "M03",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "fundraising"
+      ],
+      "format": "advice",
+      "note": "US expansion: hiring and paying staff in the US"
+    },
+    {
+      "id": "M04",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "sales"
+      ],
+      "format": "advice",
+      "note": "Enterprise procurement with port authorities"
+    },
+    {
+      "id": "M05",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "fundraising"
+      ],
+      "format": "advice",
+      "note": "Fundraising: a first institutional round after growing on revenue"
+    },
+    {
+      "id": "M06",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "hiring"
+      ],
+      "format": "advice",
+      "note": "Group benefits for staff in three provinces"
+    },
+    {
+      "id": "M07",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "grants"
+      ],
+      "format": "advice",
+      "note": "Applying for a first IRAP grant"
+    },
+    {
+      "id": "M08",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "hiring"
+      ],
+      "format": "advice",
+      "note": "Choosing an HR and payroll platform (still on spreadsheets at 14 staff)"
+    },
+    {
+      "id": "M09",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "first customers"
+      ],
+      "format": "advice",
+      "note": "Whether to quit his job and go full-time"
+    },
+    {
+      "id": "M10",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "hiring"
+      ],
+      "format": "advice",
+      "note": "First sales hire: commission or salary"
+    },
+    {
+      "id": "M11",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "sales"
+      ],
+      "format": "advice",
+      "note": "Enterprise procurement: school board RFPs and approvals"
+    },
+    {
+      "id": "M12",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "sales"
+      ],
+      "format": "advice",
+      "note": "Cash flow before large grocery orders"
+    },
+    {
+      "id": "M13",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "fundraising"
+      ],
+      "format": "advice",
+      "note": "Fundraising: explaining hardware timelines to pre-seed investors"
+    },
+    {
+      "id": "M14",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "hiring"
+      ],
+      "format": "advice",
+      "note": "First sales hire: who to hire and how to pay them"
+    },
+    {
+      "id": "M15",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "pricing"
+      ],
+      "format": "advice",
+      "note": "Pricing: per seat or per application"
+    },
+    {
+      "id": "M16",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "expansion"
+      ],
+      "format": "advice",
+      "note": "US expansion: cross-border tax and contracts"
+    },
+    {
+      "id": "M17",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "grants"
+      ],
+      "format": "advice",
+      "note": "Applying for first grants: IRAP and provincial funding"
+    },
+    {
+      "id": "M18",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "product and tech"
+      ],
+      "format": "advice",
+      "note": "Finding a technical co-founder"
+    },
+    {
+      "id": "M19",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "sales"
+      ],
+      "format": "advice",
+      "note": "Enterprise procurement: security review and legal at a large insurer"
+    },
+    {
+      "id": "M20",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "expansion"
+      ],
+      "format": "advice",
+      "note": "US expansion: FDA labels and a US distributor"
+    },
+    {
+      "id": "M21",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "fundraising"
+      ],
+      "format": "advice",
+      "note": "Fundraising: writing investor updates and finding a lead investor"
+    },
+    {
+      "id": "M22",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "hiring"
+      ],
+      "format": "advice",
+      "note": "Choosing an HR and payroll platform that handles US staff"
+    },
+    {
+      "id": "M23",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "product and tech"
+      ],
+      "format": "advice",
+      "note": "Revenue gaps between game releases"
+    },
+    {
+      "id": "M24",
+      "role": "founder",
+      "mode": "meet",
+      "topics": [
+        "pricing"
+      ],
+      "format": "advice",
+      "note": "Pricing: when to add a paid tier"
+    },
+    {
+      "id": "H01",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "pricing"
+      ],
+      "format": "chat",
+      "note": "Hiring a first developer on a small budget. Can help with: Hiring a first developer"
+    },
+    {
+      "id": "H02",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "product and tech"
+      ],
+      "format": "chat",
+      "note": "Getting through a privacy impact assessment. Can help with: Health privacy rules for software"
+    },
+    {
+      "id": "H03",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "fundraising"
+      ],
+      "format": "chat",
+      "note": "Raising a Series A from US and Canadian investors. Can help with: Fundraising from seed to Series A"
+    },
+    {
+      "id": "H04",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "sales"
+      ],
+      "format": "chat",
+      "note": "Being a startup's first sales hire and building the team after. Can help with: Hiring and ramping a first salesperson"
+    },
+    {
+      "id": "H05",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "fundraising"
+      ],
+      "format": "chat",
+      "note": "Hiring the first five salespeople. Can help with: Hiring and managing a first sales team"
+    },
+    {
+      "id": "H06",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "hiring"
+      ],
+      "format": "chat",
+      "note": "Switching HR and payroll platforms at 20 staff. Can help with: Choosing an HR and payroll platform"
+    },
+    {
+      "id": "H07",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "grants"
+      ],
+      "format": "chat",
+      "note": "Selling to farmers through a co-op. Can help with: Selling to farmers and co-ops"
+    },
+    {
+      "id": "H08",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "hiring"
+      ],
+      "format": "chat",
+      "note": "Getting through a provincial health authority procurement. Can help with: Health system procurement"
+    },
+    {
+      "id": "H09",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "first customers"
+      ],
+      "format": "chat",
+      "note": "Eight years as a construction project manager. Can help with: How construction firms buy software"
+    },
+    {
+      "id": "H10",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "hiring"
+      ],
+      "format": "chat",
+      "note": "Selling to a utility through a 12-month procurement. Can help with: Selling to utilities and large industrial buyers"
+    },
+    {
+      "id": "H11",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "sales"
+      ],
+      "format": "chat",
+      "note": "Building a waitlist of 3000 parents before launch. Can help with: Selling to parents online"
+    },
+    {
+      "id": "H12",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "sales"
+      ],
+      "format": "chat",
+      "note": "Moving production from a commercial kitchen to a co-packer. Can help with: Getting into regional grocery chains"
+    },
+    {
+      "id": "H13",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "fundraising"
+      ],
+      "format": "chat",
+      "note": "Building a hardware prototype with a local machine shop. Can help with: Hardware prototyping and machine shops"
+    },
+    {
+      "id": "H14",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "hiring"
+      ],
+      "format": "chat",
+      "note": "Moving customers from monthly to annual contracts. Can help with: Annual pricing and contracts"
+    },
+    {
+      "id": "H15",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "pricing"
+      ],
+      "format": "chat",
+      "note": "Writing over 40 grant applications including IRAP and SR&ED. Can help with: Grants and SR&ED claims"
+    },
+    {
+      "id": "H16",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "expansion"
+      ],
+      "format": "chat",
+      "note": "Selling to engineering firms. Can help with: Selling to engineering firms"
+    },
+    {
+      "id": "H17",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "grants"
+      ],
+      "format": "chat",
+      "note": "Leaving a corporate engineering job to start a company. Can help with: Engineering and materials testing"
+    },
+    {
+      "id": "H18",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "product and tech"
+      ],
+      "format": "chat",
+      "note": "Ten years as an ER nurse. Can help with: How hospitals and nurses really work"
+    },
+    {
+      "id": "H19",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "sales"
+      ],
+      "format": "chat",
+      "note": "Closing a seed round in six weeks. Can help with: SOC 2 and security questionnaires"
+    },
+    {
+      "id": "H20",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "expansion"
+      ],
+      "format": "chat",
+      "note": "Running a Kickstarter that raised $40k. Can help with: Crowdfunding and launch marketing"
+    },
+    {
+      "id": "H21",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "fundraising"
+      ],
+      "format": "chat",
+      "note": "Running a paid pilot with a large fishing company. Can help with: Pilots with large companies"
+    },
+    {
+      "id": "H22",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "hiring"
+      ],
+      "format": "chat",
+      "note": "Setting up a US entity and US sales tax. Can help with: Setting up a US entity"
+    },
+    {
+      "id": "H23",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "product and tech"
+      ],
+      "format": "chat",
+      "note": "Shipping two games on Steam. Can help with: Game design and Steam launches"
+    },
+    {
+      "id": "H24",
+      "role": "founder",
+      "mode": "help",
+      "topics": [
+        "pricing"
+      ],
+      "format": "chat",
+      "note": "Growing an app to 50k downloads on a small budget. Can help with: Paid social and app store growth"
+    }
+  ],
+  "do_not_pair": [
+    {
+      "ask_id": "M01",
+      "help_id": "H01"
+    },
+    {
+      "ask_id": "M02",
+      "help_id": "H02"
+    },
+    {
+      "ask_id": "M03",
+      "help_id": "H03"
+    },
+    {
+      "ask_id": "M04",
+      "help_id": "H04"
+    },
+    {
+      "ask_id": "M05",
+      "help_id": "H05"
+    },
+    {
+      "ask_id": "M06",
+      "help_id": "H06"
+    },
+    {
+      "ask_id": "M07",
+      "help_id": "H07"
+    },
+    {
+      "ask_id": "M08",
+      "help_id": "H08"
+    },
+    {
+      "ask_id": "M09",
+      "help_id": "H09"
+    },
+    {
+      "ask_id": "M10",
+      "help_id": "H10"
+    },
+    {
+      "ask_id": "M11",
+      "help_id": "H11"
+    },
+    {
+      "ask_id": "M12",
+      "help_id": "H12"
+    },
+    {
+      "ask_id": "M13",
+      "help_id": "H13"
+    },
+    {
+      "ask_id": "M14",
+      "help_id": "H14"
+    },
+    {
+      "ask_id": "M15",
+      "help_id": "H15"
+    },
+    {
+      "ask_id": "M16",
+      "help_id": "H16"
+    },
+    {
+      "ask_id": "M17",
+      "help_id": "H17"
+    },
+    {
+      "ask_id": "M18",
+      "help_id": "H18"
+    },
+    {
+      "ask_id": "M19",
+      "help_id": "H19"
+    },
+    {
+      "ask_id": "M20",
+      "help_id": "H20"
+    },
+    {
+      "ask_id": "M21",
+      "help_id": "H21"
+    },
+    {
+      "ask_id": "M22",
+      "help_id": "H22"
+    },
+    {
+      "ask_id": "M23",
+      "help_id": "H23"
+    },
+    {
+      "ask_id": "M24",
+      "help_id": "H24"
+    }
+  ],
+  "left_out_no_consent": []
+}

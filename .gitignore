@@ -1,0 +1,8 @@
+.env
+.venv/
+venv-volta/
+__pycache__/
+*.pyc
+data/*/incoming.csv
+data/*/happier-hour.previous.csv
+frontend/data.js

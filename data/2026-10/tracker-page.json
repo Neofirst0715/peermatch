@@ -1,0 +1,103 @@
+{
+ "month": "2026-10",
+ "saved": "2026-10-14T04:04:39.056Z",
+ "state": {
+  "M02": {
+   "status": "introduced",
+   "i": 0,
+   "log": [
+    "Kiran Desai replied yes"
+   ],
+   "hist": [
+    "{\"status\":\"pending\",\"i\":0,\"log\":[],\"reply\":\"\",\"sw\":false}",
+    "{\"status\":\"approved\",\"i\":0,\"log\":[],\"reply\":\"\",\"sw\":false}",
+    "{\"status\":\"sent\",\"i\":0,\"log\":[],\"reply\":\"\",\"sw\":false}",
+    "{\"status\":\"yes\",\"i\":0,\"log\":[\"Kiran Desai replied yes\"],\"reply\":\"yes\",\"sw\":false}"
+   ],
+   "reply": "yes"
+  },
+  "M03": {
+   "status": "pending",
+   "i": 0,
+   "log": [],
+   "hist": [],
+   "reply": ""
+  },
+  "M05": {
+   "status": "introduced",
+   "i": 0,
+   "log": [
+    "Mira Kowalczyk replied yes"
+   ],
+   "hist": [
+    "{\"status\":\"pending\",\"i\":0,\"log\":[],\"reply\":\"\",\"sw\":false}",
+    "{\"status\":\"approved\",\"i\":0,\"log\":[],\"reply\":\"\",\"sw\":false}",
+    "{\"status\":\"sent\",\"i\":0,\"log\":[],\"reply\":\"\",\"sw\":false}",
+    "{\"status\":\"yes\",\"i\":0,\"log\":[\"Mira Kowalczyk replied yes\"],\"reply\":\"yes\",\"sw\":false}"
+   ],
+   "reply": "yes"
+  },
+  "M07": {
+   "status": "pending",
+   "i": 0,
+   "log": [],
+   "hist": [],
+   "reply": ""
+  },
+  "M08": {
+   "status": "introduced",
+   "i": 0,
+   "log": [
+    "Colm Byrne replied yes"
+   ],
+   "hist": [
+    "{\"status\":\"pending\",\"i\":0,\"log\":[],\"reply\":\"\",\"sw\":false}",
+    "{\"status\":\"approved\",\"i\":0,\"log\":[],\"reply\":\"\",\"sw\":false}",
+    "{\"status\":\"sent\",\"i\":0,\"log\":[],\"reply\":\"\",\"sw\":false}",
+    "{\"status\":\"yes\",\"i\":0,\"log\":[\"Colm Byrne replied yes\"],\"reply\":\"yes\",\"sw\":false}"
+   ],
+   "reply": "yes"
+  },
+  "M10": {
+   "status": "pending",
+   "i": 0,
+   "log": [],
+   "hist": [],
+   "reply": ""
+  },
+  "M11": {
+   "status": "pending",
+   "i": 0,
+   "log": [],
+   "hist": [],
+   "reply": ""
+  },
+  "M04": {
+   "status": "pending",
+   "i": 0,
+   "log": [],
+   "hist": [],
+   "reply": ""
+  },
+  "M12": {
+   "status": "pending",
+   "i": 0,
+   "log": [],
+   "hist": [],
+   "reply": ""
+  }
+ },
+ "swaps": {
+  "M02": "",
+  "M03": "",
+  "M05": "",
+  "M07": "",
+  "M08": "",
+  "M10": "M04",
+  "M11": "",
+  "M04": "M10",
+  "M12": ""
+ },
+ "manual": [],
+ "sw": {}
+}
